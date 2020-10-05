@@ -1,6 +1,6 @@
-# pldeno
+# `postgres-deno`
 
-![PL Deno](./assets//pldeno.png)
+![Postgres Deno](./assets/pldeno.png)
 
 A PostgreSQL extension for Deno: run Typescript in PostgreSQL functions and triggers.
 
