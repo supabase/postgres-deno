@@ -15,7 +15,7 @@ request. Please, try to follow these guidelines when you do so.
 * Open an issue with a descriptive title and a summary in grammatically correct,
   complete sentences.
 * Include any relevant code to the issue summary.
-* If you're reporting performance issues it'd be nice if you added some profiling data (Emacs has a built-in profiler).
+* If you're reporting performance issues it'd be nice if you added some profiling data.
 
 ## Pull requests
 
