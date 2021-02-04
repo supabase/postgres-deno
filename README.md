@@ -36,7 +36,7 @@ Deno is a simple, modern and secure runtime for JavaScript and TypeScript that u
 
 ### Why use this over plv8?
 
-plv8 requires you to install node packages on your server. Deno can import modules from any location on the web, like GitHub, or a CDN like [Skypack](skypack.dev) or [jspm.io](jspm.io).
+plv8 requires you to install node packages on your server. Deno can import modules from any location on the web, like GitHub, or a CDN like [Skypack](https://skypack.dev) or [jspm.io](https://jspm.io).
 
 
 ## Credits
