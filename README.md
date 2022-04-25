@@ -43,5 +43,3 @@ plv8 requires you to install node packages on your server. Deno can import modul
 
 Logo derived from the orignal Deno icon and an icon made by [Freepik](https://www.flaticon.com/authors/freepik).
 
-
-![Watch this repo](https://gitcdn.xyz/repo/supabase/monorepo/master/web/static/watch-repo.gif "Watch this repo")
