@@ -1,0 +1,5 @@
+comment = 'pldeno:  Created by pgx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/pldeno'
+relocatable = false
+superuser = false
